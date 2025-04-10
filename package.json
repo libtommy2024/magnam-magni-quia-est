@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/magnam-magni-quia-est",
-  "version": "9.30.314",
+  "version": "9.30.315",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -600,5 +600,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/magnam-magni-quia-est/issues"
   },
-  "packageManager": "yarn@4.8.1"
+  "packageManager": "yarn@4.9.0"
 }
